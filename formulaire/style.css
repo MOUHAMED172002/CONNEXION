@@ -1,0 +1,55 @@
+body{
+    background-color: dimgray;
+    padding-top: 0%;
+}
+.entete{
+    margin-top: auto;
+    display: flex;
+    background-color: darkgray;
+    align-items: end;
+    padding-left: 10px;
+    
+
+}
+a{
+    background-color: chocolate;
+    color: black;
+    border-radius: 5px;
+    font-style: normal;
+    
+    
+   
+}
+
+.form{
+    margin: 20%  ;
+    margin-left: 20%;
+    padding-left: 30%;
+    padding: auto;
+    display: inline-flex;
+    border: 2px solid auto;
+    border-width: 2px;
+    justify-content: center;
+    border-color: black;
+    inline-size: 20px;
+
+}
+label{
+    justify-self: center;
+    color: white;
+}
+input{
+    background-color:wheat;
+    font-style: normal;
+    padding: 8px;
+    
+}
+.valider{
+    background-color: rgb(192, 61, 14);
+    margin: 10px;
+    margin-left: initial;
+    padding: auto;
+    display: flex;
+    width: 100%;
+    height: 40px;
+}
